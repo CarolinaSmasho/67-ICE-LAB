@@ -7,6 +7,5 @@ switch 2 ปุ่ม มีปุ่มนึงเป็นไว้บอก�
 WOKWI: https://wokwi.com/projects/414825977724278785
 
 
-**ของปีเก่า
 ปี 2023 : https://github.com/paratpanu18/arduino-practice-problem-archive/tree/main/2-intermediate/01-multiplying-machine
 ปี 2022 : https://github.com/Kittonn/intro-to-computer-engineering/tree/main/final_test
